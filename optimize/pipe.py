@@ -39,7 +39,7 @@ def get_chat_res(mess,temp,top_p,freq_pen,pres_pen,max_tok):
     os.environ['http_proxy'] = f'{proxy_url}:{proxy_port}'
     os.environ['https_proxy'] = f'{proxy_url}:{proxy_port}'
 
-    client = OpenAI(api_key="sk-f2ndb3meW0ukP66K4Fw0Kkta16yzXHs2eRVaaFnqRuXeYPpm", base_url="https://api.f2api.com/v1")
+    client = OpenAI(api_key="sk-", base_url="")
     try:
         response = client.chat.completions.create(
             model='gpt-4o',

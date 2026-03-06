@@ -1,0 +1,37 @@
+[
+  [
+    "定义",
+    [
+      "合成少数过采样（synthetic minority oversampling technique，SMOTE）",
+      "过采样算法"
+    ]
+  ],
+  [
+    "效果",
+    [
+      "合成少数过采样（synthetic minority oversampling technique，SMOTE）",
+      "生成与原始少数类样本取值差异性足够大的样本"
+    ]
+  ],
+  [
+    "解决",
+    [
+      "合成少数过采样（synthetic minority oversampling technique，SMOTE）",
+      "数据不平衡问题"
+    ]
+  ],
+  [
+    "效果",
+    [
+      "合成少数过采样（synthetic minority oversampling technique，SMOTE）",
+      "视这些新生成的样本点仍属于原少数类"
+    ]
+  ],
+  [
+    "导致",
+    [
+      "将少数类样本直接复制若干份输入到模型中",
+      "严重过拟合问题"
+    ]
+  ]
+]

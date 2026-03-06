@@ -1,0 +1,23 @@
+[
+  [
+    "解决",
+    [
+      "复制少数类样本输入模型",
+      "数据不平衡"
+    ]
+  ],
+  [
+    "解决",
+    [
+      "合成少数过采样（synthetic minority oversampling technique，SMOTE）",
+      "过拟合问题"
+    ]
+  ],
+  [
+    "效果",
+    [
+      "合成少数过采样（synthetic minority oversampling technique，SMOTE）",
+      "生成新样本点"
+    ]
+  ]
+]
